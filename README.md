@@ -1,10 +1,10 @@
-## project01 
+# project01 
 # Children in Japan are taking their own lives
-## Description of what I aimed
+## Description
 What I aimed to accomplish is to clarify and focus on how serious the situation of child suicide in Japan is by using data.
-## Description of my findings
+## My findings
 The number of child suicides was increasing since 2016 and reached the highest record in 2022.
-## Summery of the data collection process
+## Data collection process
 1. Searched and found the suicide statistic data on:
 * website of [Ministry of Health, Labor and Welfare]
 (https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/jisatsu/jisatsu_year.html)
@@ -14,13 +14,13 @@ The number of child suicides was increasing since 2016 and reached the highest r
 4. I tried to use pandas but the excel files were "Kami-Excel" and not applicable. I ended up picking the numbers manually and made into two excel files.
 * [suicidetotal_Japan_2008-22.xlsx](https://github.com/MYMO5303/project01/files/11858384/suicidetotal_Japan_2008-22.xlsx)
 * [For data suicide_children 2008-2022.xlsx](https://github.com/MYMO5303/project01/files/11858388/For.data.suicide_children.2008-2022.xlsx)
-## Overview of the data analysis process
+## Data analysis process
 Input all the data into a line chart of Datawrapper and observed progression of values.
 ## Section about new
 I used Datawrapper for the first time and learned how it works. Also making a website using html was new to me and I think I grew here the most. I would like to develop the skills more.
 ## Section about things I wanted to do 
 I wanted to make my project more interactive with story near multiple data representations. Ultimately, I hope to do similar to [How Americans Die].(https://www.bloomberg.com/graphics/dataview/how-americans-die/)
-## Data I used for analysis:
+## Data used for analysis:
 [2022-0-2022CDR-22-00013_B1-4表(全国・発見日).xls](https://github.com/MYMO5303/project01/files/11858402/2022-0-2022CDR-22-00013_B1-4.xls)
 [2021-0-2021CDR-21-00014_B1-4表(全国・発見日).xls](https://github.com/MYMO5303/project01/files/11858403/2021-0-2021CDR-21-00014_B1-4.xls)
 [2020-0-2020CDR-20-00014_B1-4表(全国・発見日).xls](https://github.com/MYMO5303/project01/files/11858404/2020-0-2020CDR-20-00014_B1-4.xls)
