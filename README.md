@@ -36,4 +36,4 @@ I wanted to make my project more interactive with story near multiple data repre
 ## Notebooks used for analysis:
 None
 ## The link
-<https://mymo5303.github.io/project01-Suicide/>
+<https://mymo5303.github.io/project01-suicide/>
