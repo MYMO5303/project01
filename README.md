@@ -1,4 +1,4 @@
-# project01 
+## project01 
 # Children in Japan are taking their own lives
 ## Description
 What I aimed to accomplish is to clarify and focus on how serious the situation of child suicide in Japan is by using data.
